@@ -1,3 +1,8 @@
+Deprecated
+==========
+
+Do not use. Use this instead: https://github.com/ministryofjustice/moj_template
+
 MOJFrontEndToolkitGem
 =====================
 
